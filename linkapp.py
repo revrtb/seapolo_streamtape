@@ -90,7 +90,10 @@ def system(code):
     referrer = request.referrer
     if not referrer and "adcharriot" not in item[2]:
        abort(404)
-    return render_template('load.html', url=link.Link.get_item(code)[3])
+     
+    response = make_response(render_template('load.html', url=link.Link.get_item(code)[3]))
+    response.headers["Referrer-Policy"] = "no-referrer"
+    return response
 
 @application.route('/load', methods=['POST', 'GET'])
 @csrf.exempt
@@ -98,7 +101,9 @@ def load():
     if request.method == 'GET':
         abort(404)
     url = request.form.get('url')
-    return redirect(url)
+    response = redirect(url, code=302)
+    response.headers["Referrer-Policy"] = "no-referrer"
+    return response
 
 
 @login_manager.user_loader

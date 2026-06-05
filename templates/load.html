@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="referrer" content="origin">
+  <meta name="referrer" content="no-referrer">
 </head>
 <body>
-    <form id="form1" action="/load" method="post">
+    <form id="form1" action="/load" method="post" referrerpolicy="no-referrer">
 		<input type="hidden" name="url" value="{{url}}">/>
 	</form>
 	<script> document.getElementById("form1").submit()</script>
