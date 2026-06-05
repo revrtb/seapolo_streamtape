@@ -1,0 +1,427 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>404 error page</title>
+    <meta name="title" content="">
+    <meta name="keywords" content="">
+    <!-- <link rel="shortcut icon" href="/static/images/zblogow1.png" type="image/png"> -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kanit:200|Lato:300|Quicksand:300|Itim|Open+Sans|Varela+Round|Maven+Pro" rel="stylesheet">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Bootstrap -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+    <link href="/static/css/animate.min.css" rel="stylesheet">
+    <link href="/static/css/style.css" rel="stylesheet">
+    <link href="/static/css/responsive.css" rel="stylesheet">
+
+  </head>
+  <body>
+  <style>
+  .navbar {
+    background-color:rgba(0.5,0.5,0.5,0.7);
+  }
+  .navbar-fixed-top .navbar-nav > li > a {
+    color:white;
+  }
+  /* Add Animation */
+  @-webkit-keyframes animatetop {
+      from {top:10%; opacity:0}
+      to {top:30%; opacity:1}
+  }
+  @keyframes animatetop {
+      from {top:10%; opacity:0}
+      to {top:30%; opacity:1}
+  }
+  .zapLogoDiv {
+    margin-left: 20px;
+  }
+  @media (max-width: 767px) {
+    .navbar-fixed-top .navbar-nav > li > a {
+      padding: 9px 10px;
+    }
+  }
+  @media (min-width: 768px) {
+    #aboutUsLink {
+      padding-right:10px;
+    }
+    #loginLink {
+      padding-left: 10px;
+    }
+    #logoutLink {
+      padding-left: 10px;
+    }
+    #aboutUsLink {
+      border-right: 1px solid orange;
+    }
+    .footerLink {
+      display: inline-block;
+    }
+  }
+  @media (min-width: 992px) {
+    .zapLogoDiv {
+      margin-left:80px;
+    }
+    .navbar-nav {
+      margin-right: 80px;
+    }
+    #aboutUsLink {
+      padding-right:20px;
+    }
+    #loginLink {
+      padding-left: 20px;
+      margin-left: 0px;
+    }
+    #logoutLink {
+      padding-left: 20px;
+      margin-left: 0px;
+    }
+    #aboutUsLink {
+      border-right: 1px solid orange;
+    }
+  }
+  /* The Close Button */
+  .close {
+      color: black;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+  }
+  .footer {
+    position:absolute;
+    left:0;
+    width:100%;
+    background:white;
+  }
+  .footer .social-networks{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer .social-networks a{
+      font-size: 32px;
+      margin-right: 5px;
+      margin-left: 5px;
+      color: #333;
+      transition: 0.2s;
+  }
+  .footer .social-networks a:hover{
+    text-decoration: none;
+  }
+  .footer .instagram:hover{
+    color:#e1306c;
+  }
+  .footer h4 a {
+    color: #324a5e;
+    text-decoration: none;
+    font-size: 1.4rem;
+  }
+  .footer a:hover {
+    text-decoration: none;
+  }
+  .footer .instaIcon {
+    background-image: url(static/images/instagram.svg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    transition: all .2s ease-in-out;
+  }
+  .footer .instaIcon:hover {
+    transform: scale(1.1);
+  }
+  .modal-open .navbar-fixed-top {
+    right: 16px;
+  }
+  .modal-open .footer{
+    padding-right: 30px!important;
+  }
+  .modal-backdrop {
+    background-color: black !important;
+    opacity: 0.7!important;
+  }
+  .modal-content {
+    border-radius: 5px !important;
+  }
+  .modal-dialog {
+    top:10%;
+  }
+  .modal .form-control{
+    border: 1px solid #ced4da;
+  }
+  .modal-body {
+    margin-top: 0px;
+    padding: 0px 50px 40px;
+  }
+  .modal-body .form-group {
+    margin: 7px 0px;
+  }
+  .modal-header {
+    border:none;
+  }
+  .modal-footer {
+    margin-bottom: 20px;
+  }
+  .closeModal {
+    background: url(static/images/svg1.svg) no-repeat;
+    background-color: #ed5412;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    right: 14px;
+    height: 26px;
+    width: 26px;
+    z-index: 2;
+  }
+  .closeModal:hover {
+    background: url(static/images/svg.svg) no-repeat;
+    background-position: center;
+    background-color: #e45212;
+  }
+  .reg-accept input:checked+label i{
+      opacity: 1 !important;
+  }
+  .reg-accept > label > i {
+      font-size: 20px;
+      position: relative;
+      top: 2px;
+      left: -25px;
+      color: #ed5412;
+      opacity: 0;
+      -webkit-transition: all .25s ease-in-out;
+      -o-transition: all .25s ease-in-out;
+      transition: all .25s ease-in-out;
+  }
+  .reg-accept > label {
+      cursor: pointer;
+      margin-right:15px;
+      margin-left:0px;
+  }
+  .reg-accept > label::before {
+      content: '';
+      display: block;
+      position: relative;
+      top: -3px;
+      left: 0px;
+      width: 30px;
+      height: 30px;
+      border: 1px solid #c1c1c1;
+      -webkit-box-shadow: 0 0 2px #c1c1c1;
+      box-shadow: 0 0 2px #c1c1c1;
+      float:left;
+  }
+  .reg-accept  {
+      text-align: center;
+  }
+  .reg-accept > input {
+      display:none;
+  }
+  .reg-accept > a {
+      white-space: nowrap;
+  }
+  .alert-info {
+      background-color: #ffe6cc;
+      border-color: #ffe6cc;
+      width: 25%;
+      /* line-height: 1; */
+      position: fixed;
+      right: 0px;
+      z-index: 1030;
+      top: 62px;
+      padding-top:25px;
+      font-size: 16px;
+  }
+  .alert-dismissable .close {
+    right: 0px;
+    top:-7px;
+  }
+  .rightsReserved {
+    padding: 0px 15px 15px 15px;
+  }
+  .footerLink {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  @media (min-width: 768px) {
+    .rightsReserved {
+      padding: 45px 15px 15px 15px;
+    }
+    .footerLink {
+      display: inline-block;
+      margin-bottom: 0;
+      padding: 0px 15px;
+    }
+  }
+  @MEDIA SCREEN AND (MAX-WIDTH: 992PX) {
+    .alert-info {
+      width: 100%;
+      top:60px;
+      padding-top: 15px;
+      padding-bottom:0px;
+    }
+  }
+
+  </style>
+
+    <header id="">
+         <nav class="navbar-fixed-top" role="banner">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="zapLogoDiv">
+                        <a href="/">
+                            <h1><span style="color:red">Adsmansion</span></h1>
+                        <!-- <img src="/static/images/zblogofullw1.png" alt="ZapBUZZ" width="180" height="60"> -->
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    </div>
+
+    </div>
+
+    <script src="/static/js/jquery.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/jquery.isotope.min.js"></script>
+    <script src="/static/js/wow.min.js"></script>
+    <script src="/static/js/main.js"></script>
+
+<div class="container">
+    <div class="center wow fadeInDown">
+        <div class="col-md-12"> 
+            <div class="err404">
+                <img src="/static/images/Adsmansion-404.png" alt="best error for url shortner"></img>
+                <h3>What you were looking for is just not there.</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--   <section class="footer-section">
+    <footer id="" class="" >
+      <div class="container footer">
+              <div class="row" style="margin-top:0px">
+                <div class="col-xs-12 text-center">
+                  <div class="footerLink">
+                    <h4>
+                      <a href="/aboutUs">About us</a>
+                    </h4>
+                  </div>
+                  <div class="footerLink">
+                    <h4>
+                      <a href="/terms">Terms of use</a>
+                    </h4>
+                  </div>
+                  <div class="footerLink">
+                    <h4>
+                      <a href="/policy">Privacy policy</a>
+                    </h4>
+                  </div>
+                  <div class="footerLink" style="margin-bottom:0;">
+                    <h4>
+                      <a href="/contact">Contact us</a>
+                    </h4>
+                  </div>
+                </div>
+              </div>
+              <div class="row" style="margin-bottom:20px; display: flex; align-items: center; justify-content: center;">
+                  <div class="col-xs-12 col-sm-6 text-center rightsReserved">
+                    <span style="font-size:1.2rem; color:#324a5e;">
+                      &copy; Adsmansion | All Rights Reserved | 2020
+                    </span>
+                  </div>
+              </div>
+      </div>
+    </footer>
+  </section> -->
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+      var url = window.location;
+            // Will also work for relative and absolute hrefs
+      $('ul.nav a').filter(function() {
+          return this.href == url;
+      }).parent().addClass('active');
+
+
+    $(document).click(function (event) {
+      var clickover = $(event.target);
+      var $navbar = $(".navbar-collapse");
+      var _opened = $navbar.hasClass("in");
+      if (_opened === true && !clickover.hasClass("navbar-toggle")) {
+          $navbar.collapse('hide');
+      }
+    });
+
+});
+</script>
+
+
+</body>
+<!-- Dialog -->
+<script type="text/javascript">
+    $(document).ready(function () {
+      var url = window.location;
+            // Will also work for relative and absolute hrefs
+      $('ul.nav a').filter(function() {
+          return this.href == url;
+      }).parent().addClass('active');
+    });
+
+    $(document).click(function (event) {
+    var clickover = $(event.target);
+    var $navbar = $(".navbar-collapse");
+    var _opened = $navbar.hasClass("in");
+    if (_opened === true && !clickover.hasClass("navbar-toggle")) {
+        $navbar.collapse('hide');
+    }
+    });
+
+    //toggle between login and register modals
+    $("#switchToLogin").click(function() {
+        $("#registerModal").modal('hide');
+        $("#registerModal").on('hidden.bs.modal', function(event) {
+            $("#loginModal").modal('show');
+            $("#registerModal").off('hidden.bs.modal');
+        });
+        return false;
+    });
+
+    $("#switchToRegister").click(function() {
+        $("#loginModal").modal('hide');
+        $("#loginModal").on('hidden.bs.modal', function(event) {
+            $("#registerModal").modal('show');
+            $("#loginModal").off('hidden.bs.modal');
+        });
+        return false;
+    });
+
+</script>

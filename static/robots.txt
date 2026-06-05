@@ -1,0 +1,3 @@
+Sitemap: http://zap.buzz/sitemap.xml
+User-agent: *
+Disallow: /templates/

